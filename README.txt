@@ -7,4 +7,5 @@ pip install keyboard
 pip install pywin32
 ---
 If you want the code
-Click at script.py file!
+Click at macro.py file!
+Oh! You can try super_macro.py to!
