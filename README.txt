@@ -6,4 +6,4 @@ pip install keyboard
 pip insatll pywin32
 ---
 If you want the code
-Click at clicker.py file!
+Click at script.py file!
